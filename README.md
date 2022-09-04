@@ -14,8 +14,8 @@ The open-sourced code is located at https://github.com/Speekins/romcom. Fork the
 We are two Turing students currently in the first module (of four). After studying basic programming principles for a week and a half (yes, that's 10 days), we were tasked with creating this application within the span of 5 days. Each day required roughly 3 hours.
 
 ## Contributors:
-[Anna's GitHub]('github.com/AnnaPete')<br>
-[Spencer's GitHub]('github.com/Speekins')
+[Anna's GitHub]('https://github.com/AnnaPete')<br>
+[Spencer's GitHub]('https://github.com/Speekins')
 
 ## Learning Goals:
 - Pair programming and writing code collaboratively.<br>
