@@ -132,6 +132,14 @@ body {
   padding: 5px;
 }
 
+.mini-cover > .price-tag {
+  position: absolute;
+  top: 20px;
+  width: 22%;
+  right: 15px;
+  transform: rotate(10deg);
+}
+
 /* ~~~~~~~~~~~~~ NEW COVER FORM ~~~~~~~~~~~~~~~ */
 form {
   display: flex;
